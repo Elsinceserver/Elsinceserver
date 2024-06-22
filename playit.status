@@ -1,379 +1,959 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718802909928 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719059413897 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802913025 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059417064 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802916151 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059420192 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802919293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059423318 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802922457 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059426412 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802925570 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059429546 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802928670 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059432666 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802931769 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059435948 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802934897 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059439095 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802938014 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059442225 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802941146 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059445348 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802944263 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059448458 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802947383 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059451574 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802950499 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059454684 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802953613 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059457944 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802956738 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059461057 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802959920 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059464188 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802963177 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059467338 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802966352 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059470458 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802969448 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059473591 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802972540 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059476699 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802975640 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059479814 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802978744 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059482914 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802981983 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059486057 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802985236 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059489152 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802988333 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059492248 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802991429 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059495397 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802994560 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059498492 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718802997664 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059501647 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803000758 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059504785 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803003860 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059507879 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803006989 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059510981 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803010144 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059514076 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803013273 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059517179 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803016392 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059520280 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803019490 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059523376 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803022602 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059526493 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803025765 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059529630 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803028918 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059532794 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803032058 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059535961 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803035173 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059539083 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803038293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059542200 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803041401 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059545314 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803044518 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059548428 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803047626 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059551542 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803050817 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059554657 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803053973 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059557781 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803057088 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059560890 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803060197 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059563988 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803063304 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059567100 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803066403 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059570218 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803069500 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059573368 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803072623 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059576594 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803075777 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059579711 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803078915 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059582842 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803082024 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059586025 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803085132 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059589172 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803088226 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059592287 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803091339 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059595421 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803094458 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059598550 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803097585 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059601656 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803100703 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059604753 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803103836 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059607878 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803106956 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059610996 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803110070 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059614303 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803113198 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059617398 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803116314 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059620500 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803119414 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059623596 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803122520 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059626720 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803125633 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059629855 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803128731 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059632962 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803131843 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059636079 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803134934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059639278 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803138026 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059642378 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803141349 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059645484 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718803144451 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719059648619 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059651751 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059654901 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059658017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059661115 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059664211 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059667335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059670495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059673614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059676712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059679802 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059682963 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059686091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059689193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059692299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059695400 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059698489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059701662 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059704781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059707899 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059711017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059714131 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059717254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059720366 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059723486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059726583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059729682 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059732828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059735967 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059739081 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059742172 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059745278 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059748372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059751479 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059754578 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059757713 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059760887 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059764005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059767159 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059770441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059773534 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059776652 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059779772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059782891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059786018 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059789171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059792326 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059795449 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059798620 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059801715 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059804869 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059807996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059811103 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059814241 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059817359 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059820475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059823591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059826721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059829895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059833010 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059836108 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059839220 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059842361 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059845486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059848602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059851718 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059854833 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059857948 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059861054 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059864160 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059867265 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059870367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059873461 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059876605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059879748 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059883010 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059886106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059889204 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059892300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059895414 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059898570 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059901714 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059904866 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059907965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059911068 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059914179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059917300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059920401 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059923492 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059926587 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059929689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059932811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059935925 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059939043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059942258 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059945448 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059948589 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059951702 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059954803 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059957916 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059961036 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059964157 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059967276 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059970411 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059973524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059976641 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059979754 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059982846 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059985942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059989045 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059992161 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059995276 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719059998383 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719060001526 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719060004642 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719060007746 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+growth-sc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719060010844 tunnel running, 1 tunnels registered
 
 
 TUNNELS
